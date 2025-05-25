@@ -1,4 +1,4 @@
-#!C:\Users\HP\LangChain-Mastery\LANGCHAIN\python.exe
+#!C:\Users\HP\LangChain-Mastery\Langchain\python.exe
 """A command line tool for extracting text and images from PDF and
 output it to plain text, html, xml or tags.
 """

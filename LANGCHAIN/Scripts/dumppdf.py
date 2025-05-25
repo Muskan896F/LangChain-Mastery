@@ -1,4 +1,4 @@
-#!C:\Users\HP\LangChain-Mastery\LANGCHAIN\python.exe
+#!C:\Users\HP\LangChain-Mastery\Langchain\python.exe
 """Extract pdf structure in XML format"""
 
 import logging
