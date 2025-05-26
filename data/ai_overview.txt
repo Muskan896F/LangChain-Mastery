@@ -1,0 +1,22 @@
+Artificial Intelligence (AI)
+
+Artificial Intelligence is a branch of computer science focused on building smart machines capable of performing tasks 
+that typically require human intelligence. These tasks include problem-solving, learning, reasoning, perception, 
+and language understanding.
+
+Key Areas of AI:
+1. Machine Learning (ML)
+2. Natural Language Processing (NLP)
+3. Computer Vision
+4. Robotics
+5. Expert Systems
+
+Applications of AI:
+- Virtual assistants (e.g., Siri, Alexa)
+- Autonomous vehicles
+- Medical diagnosis
+- Fraud detection
+- Personalized recommendations
+
+AI continues to revolutionize industries and redefine the future of work and everyday life.
+
